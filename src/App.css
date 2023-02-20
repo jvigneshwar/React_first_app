@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+nav{
+  width: 100%;
+}
+#Companylogo{
+  width: 150px;
+  margin-left: 100px;
+}
+
+section{
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  
+}
+#right{
+  width: 750px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#productTitle{
+  text-align: justify;
+}
+
+#Description{
+  text-align: justify;
+}
+
+#pb{
+  display: flex;
+  gap: 50px;
+}
+
+#Button{
+  padding: 0px 20px;
+  background-color: yellow;
+  border-radius: 5px;
+  font-weight: 200;
+}
